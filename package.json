@@ -1,5 +1,5 @@
 {
-  "name": "azure-web-app",
+ "azure-web-app",
   "version": "1.0.0",
   "description": "A Node.js app that shows a random joke",
   "main": "app.js",
